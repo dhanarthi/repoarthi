@@ -1,0 +1,7 @@
+D:\Personal\Learning\ASP.Net\TrialWebApplication1\TrialWebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\TrialWebApplication1.exe
+D:\Personal\Learning\ASP.Net\TrialWebApplication1\TrialWebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Personal\Learning\ASP.Net\TrialWebApplication1\TrialWebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Personal\Learning\ASP.Net\TrialWebApplication1\TrialWebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\TrialWebApplication1.dll
+D:\Personal\Learning\ASP.Net\TrialWebApplication1\TrialWebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\TrialWebApplication1.deps.json
+D:\Personal\Learning\ASP.Net\TrialWebApplication1\TrialWebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\TrialWebApplication1.runtimeconfig.json
+D:\Personal\Learning\ASP.Net\TrialWebApplication1\TrialWebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\TrialWebApplication1.pdb
